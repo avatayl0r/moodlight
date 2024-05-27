@@ -1,7 +1,7 @@
 [project]
-name = "project_name"
-description = "description"
-version = "1.1.0"
+name = "moodlight"
+description = "Moodlight is a user-friendly app designed to help individuals track and visualize their moods. With Moodlight, users can easily log their daily moods and view them in a graph format, providing valuable insights into their emotional well-being over time."
+version = "1.0.0"
 
 [build-system]
 requires = ["setuptools>=61.0"]
